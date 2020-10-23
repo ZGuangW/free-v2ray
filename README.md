@@ -14,3 +14,5 @@ V2Ray账号，更新时间：2020-10-22 星期四
 使用方法请参见：https://github.com/iwxf/v2ray-tutorial/blob/master/README.md
 
 base64加密解密网址：http://tool.chinaz.com/Tools/Base64.aspx
+
+订阅中可能有重复的节点，敬请谅解！
