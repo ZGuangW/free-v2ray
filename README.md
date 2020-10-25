@@ -1,5 +1,5 @@
 # 免费v2ray账号分享,每日更新
-V2Ray账号，更新时间：2020-10-24 星期六
+V2Ray账号，更新时间：2020-10-25 星期日
 
 所有账号均来自互联网，非盈利目的，仅供大家交流学习使用，出现一切问题本站作者概不负责。
 
@@ -13,6 +13,6 @@ V2Ray账号，更新时间：2020-10-24 星期六
 
 使用方法请参见：https://github.com/iwxf/v2ray-tutorial/blob/master/README.md
 
-base64加密解密网址：http://tool.chinaz.com/Tools/Base64.aspx
+请大家给我的项目打个星⭐，谢谢
 
 订阅中可能有重复的节点，敬请谅解！
