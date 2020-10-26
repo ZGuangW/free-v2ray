@@ -6,6 +6,10 @@ V2Ray账号，更新时间：2020-10-25 星期日
 
 本站不提供任何收费服务，不推荐任何收费机场，谢谢大家的支持。
 
+|  工具  | Android  | Win  |  
+|  ----  | ----   | ----  |  
+| [v2ray](#v2ray)  | [v2rayNG](https://github.com/2dust/v2rayNG/releases/download/1.2.12/v2rayNG_1.2.12.apk) | [v2rayN](https://github.com/2dust/v2rayN/releases/download/3.19/v2rayN-Core.zip) |  
+| [shadowsocksR](#SSR)  |[shadowsocksr-android](https://github.com/shadowsocksrr/shadowsocksr-android/releases/download/3.5.4/shadowsocksr-android-3.5.4.apk) | [shadowsocksr-windows](https://github.com/shadowsocksr-backup/shadowsocksr-csharp/releases/download/4.7.0/ShadowsocksR-4.7.0-win.7z) |  
 ### 自定义节点订阅  
 为解决githubusercontent被屏蔽订阅无法更新问题，
 订阅链接：[永久免费订阅](http://freev2ray.orgfree.com)
