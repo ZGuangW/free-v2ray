@@ -23,7 +23,7 @@ CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标�
 
 如需以往的节点，请查看上方的文档（有对应日期）
 
-使用方法请参见：https://github.com/iwxf/v2ray-tutorial/blob/master/README.md
+使用方法请参见：[点击这里](https://github.com/hyt-allen-xu/tutorials)
 
 请大家给我的项目打个星⭐，谢谢!
 (如⭐的数量达到10的倍数时，我会给大家发布更好更多的节点！）
