@@ -1,6 +1,6 @@
-# v2ray免费节点不明原因大面积失效，可能有部分节点无法使用
+# v2ray免费节点不明原因失效，可能有部分节点无法使用
 # 免费v2ray账号分享,每日更新
-V2Ray账号，更新时间：2020年10月26日 星期一 16:31:40
+V2Ray账号，更新时间：2020年10月27日 星期二 19:10:11
 
 所有账号均来自互联网，非盈利目的，仅供大家交流学习使用，出现一切问题本站作者概不负责，请勿用于非法用途  
 
@@ -14,7 +14,7 @@ V2Ray账号，更新时间：2020年10月26日 星期一 16:31:40
 CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标，左键点击从剪贴板批量导入URL，即可一键导入所有v2ray节点  
 
 ### v2ray节点订阅  
-- `https://raw.githubusercontent.com/hyt-allen-xu/free-v2ray/master/2020-1025`  
+- `https://raw.githubusercontent.com/hyt-allen-xu/free-v2ray/master/2020-1027`  
 
 ### 自定义节点订阅  
 为解决githubusercontent被屏蔽订阅无法更新问题，建了个订阅网站，有需要自取：[永久免费订阅](http://freev2ray.orgfree.com)
