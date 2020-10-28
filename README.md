@@ -28,7 +28,7 @@ CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标�
 请大家给我的项目打个星⭐，谢谢!
 (如⭐的数量达到10的倍数时，我会给大家发布更好更多的节点！）
 
-问卷调查：[点击这里](https://forms.gle/5otS9JuFk6wzQ2ei7)
+问卷调查：[点击这里](https://forms.gle/Xr9RwbGb1hYuMdff7)
 
 订阅中可能有重复的节点，敬请谅解！
 
