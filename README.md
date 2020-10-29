@@ -1,6 +1,6 @@
-# 由于GFW加厚，v2ray免费节点失效，可能有部分节点无法使用，可使用vpn app(仅安卓)
+# 由于GFW加厚，v2ray免费节点失效，可能有部分节点无法使用，可使用vpn app(仅安卓):[这里](https://https://github.com/hyt-allen-xu/Android-vpn)
 # 免费v2ray+ss账号分享,每日更新
-V2Ray账号，更新时间：2020年10月29日 星期四 18:32:48
+V2Ray账号，更新时间：2020年10月29日 星期四 20:54:16
 
 所有账号均来自互联网，非盈利目的，仅供大家交流学习使用，出现一切问题本站作者概不负责，请勿用于非法用途  
 
@@ -10,6 +10,10 @@ V2Ray账号，更新时间：2020年10月29日 星期四 18:32:48
 |  ----  | ----   | ----  |  
 | [v2ray](#v2ray)  | [v2rayNG](https://github.com/2dust/v2rayNG/releases/download/1.2.12/v2rayNG_1.2.12.apk) | [v2rayN](https://github.com/2dust/v2rayN/releases/download/3.19/v2rayN-Core.zip) |  
 | [ss](#v2ray)  | [ss](https://github.com/shadowsocks/shadowsocks-android/releases/download/v5.1.4/shadowsocks--universal-5.1.4.apk)|  
+
+### 问卷调查
+做个问卷调查(匿名)：[点击这里](https://forms.gle/Xr9RwbGb1hYuMdff7)
+
 ### 节点导入方法  
 CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标，左键点击从剪贴板批量导入URL，即可一键导入所有v2ray节点  
 
@@ -28,7 +32,6 @@ CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标�
 请大家给我的项目打个星⭐，谢谢!
 (如⭐的数量达到10的倍数时，我会给大家发布更好更多的节点！）
 
-做个问卷调查(匿名)：[点击这里](https://forms.gle/Xr9RwbGb1hYuMdff7)
 
 订阅中可能有重复的节点，敬请谅解！
 
