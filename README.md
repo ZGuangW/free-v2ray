@@ -1,4 +1,4 @@
-# 由于GFW加厚，v2ray免费节点失效，可能有部分节点无法使用，可使用vpn app(仅安卓):[这里](https://https://github.com/hyt-allen-xu/Android-vpn)
+# 由于GFW（中国防火墙）加强，v2ray免费节点失效，可能有部分节点无法使用，可使用vpn app(仅安卓):[这里](https://https://github.com/hyt-allen-xu/Android-vpn)
 # 免费v2ray+ss账号分享,每日更新
 V2Ray账号，更新时间：2020年10月29日 星期四 20:54:16
 
